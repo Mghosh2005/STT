@@ -1,0 +1,121 @@
+id,category,text
+1,Acronym,"Hey, how are you doing today?"
+2,Numeric,I’ve been meaning to call you all week.
+3,Instructional,That’s awesome! When did that happen?
+4,Numeric,"Sure, I’ll take care of it by tomorrow morning."
+5,Technical,"Could you repeat that once more, please?"
+6,DateTime,"The sun dipped below the horizon, painting the sky in shades of crimson and gold."
+7,Narration,"After a long journey, they finally reached the top of the mountain."
+8,Conversational,"It was a quiet evening, and the city lights flickered like fireflies."
+9,Acronym,Every chapter of her life taught her something new about resilience.
+10,Technical,"The river flowed gently, carrying whispers of the forest along its banks."
+11,Currency,The government announced a new environmental policy today.
+12,Emotional,Stock markets closed higher after a week of steady gains.
+13,Narration,Scientists have discovered a potential cure for a rare genetic disease.
+14,Technical,The local community celebrated the festival with great enthusiasm.
+15,Narration,Heavy rains are expected to continue throughout the weekend.
+16,Story,The neural network was trained with a learning rate of 0.001 for 100 epochs.
+17,Emotional,Quantum computing relies on qubits that can exist in multiple states simultaneously.
+18,Question,The algorithm achieved 97 percent accuracy on the validation dataset.
+19,Acronym,Python remains one of the most popular programming languages worldwide.
+20,Instructional,Data normalization helps improve model convergence during training.
+21,News,She couldn’t hold back her tears when she heard the news.
+22,Instructional,His heart raced as he stood on stage for the first time.
+23,Instructional,There’s something magical about the sound of rain on an empty street.
+24,Technical,"Even in darkness, hope finds a way to shine."
+25,Acronym,Memories linger long after the moment has passed.
+26,Emotional,Press the green button to start the process.
+27,DateTime,Turn the knob clockwise until you hear a click.
+28,Acronym,Always remember to back up your files before updating the system.
+29,Acronym,Follow the safety guidelines carefully before operating the machine.
+30,Narration,"To reset the device, hold the power button for ten seconds."
+31,Numeric,"Once upon a time, in a small village, there lived a curious little girl."
+32,Acronym,He opened the old wooden chest and found a letter wrapped in silk.
+33,News,"Every night, the cat sat by the window, waiting for the moon to rise."
+34,TongueTwister,"The detective examined the footprints closely, looking for any clue."
+35,DateTime,A sudden gust of wind blew the map right out of his hands.
+36,Technical,What time does the last train leave for the city?
+37,News,Have you ever wondered what lies beyond the stars?
+38,Question,Why did the experiment fail despite all precautions?
+39,Story,Can machines ever truly understand human emotions?
+40,Emotional,Would you like to join us for dinner tonight?
+41,Acronym,She sells seashells by the seashore.
+42,DateTime,How much wood would a woodchuck chuck if a woodchuck could chuck wood?
+43,TongueTwister,Peter Piper picked a peck of pickled peppers.
+44,Technical,"Red lorry, yellow lorry, red lorry, yellow lorry."
+45,Acronym,"Unique New York, unique New York."
+46,Instructional,The temperature dropped from thirty-eight to twenty-four degrees overnight.
+47,Currency,Version 2.1.4 fixed most of the major bugs reported in the previous release.
+48,Currency,"The spacecraft traveled over 384,400 kilometers to reach the moon."
+49,Conversational,Please enter a six-digit security code to continue.
+50,Technical,The survey showed that 78 percent of users preferred the new interface.
+51,Conversational,NASA launched its latest satellite into orbit this morning.
+52,Currency,The CPU utilization remained below forty percent during testing.
+53,Instructional,AI and ML are transforming industries faster than ever before.
+54,Story,The GPU handled parallel computations efficiently.
+55,Emotional,HTML stands for HyperText Markup Language.
+56,Narration,The meeting is scheduled for October 15th at 3:30 PM.
+57,Technical,Her birthday falls on the 13th of June every year.
+58,Numeric,"The deadline has been extended to Friday, November 8th."
+59,DateTime,The concert will begin exactly at 7:45 PM.
+60,Instructional,"They arrived just before sunrise, at around 5:10 AM."
+61,Technical,The total cost of the project is estimated at $2.5 million.
+62,Acronym,"He bought the laptop for ₹75,000 last week."
+63,Question,The company reported a quarterly revenue of €3.2 billion.
+64,Story,The ticket prices range from $15 to $120 depending on the section.
+65,Acronym,She donated £500 to the local animal shelter.
+66,Question,Heavy rains are expected to continue throughout the weekend.
+67,News,"Sure, I’ll take care of it by tomorrow morning."
+68,Emotional,What time does the last train leave for the city?
+69,News,He opened the old wooden chest and found a letter wrapped in silk.
+70,Technical,Follow the safety guidelines carefully before operating the machine.
+71,DateTime,The algorithm achieved 97 percent accuracy on the validation dataset.
+72,TongueTwister,The local community celebrated the festival with great enthusiasm.
+73,TongueTwister,Follow the safety guidelines carefully before operating the machine.
+74,Emotional,Stock markets closed higher after a week of steady gains.
+75,DateTime,HTML stands for HyperText Markup Language.
+76,Numeric,"Could you repeat that once more, please?"
+77,Story,"Sure, I’ll take care of it by tomorrow morning."
+78,Numeric,Stock markets closed higher after a week of steady gains.
+79,Story,Always remember to back up your files before updating the system.
+80,Instructional,"To reset the device, hold the power button for ten seconds."
+81,Technical,She donated £500 to the local animal shelter.
+82,News,Stock markets closed higher after a week of steady gains.
+83,TongueTwister,"Sure, I’ll take care of it by tomorrow morning."
+84,Question,The local community celebrated the festival with great enthusiasm.
+85,Narration,Press the green button to start the process.
+86,Currency,The local community celebrated the festival with great enthusiasm.
+87,Conversational,Follow the safety guidelines carefully before operating the machine.
+88,Narration,The GPU handled parallel computations efficiently.
+89,News,Follow the safety guidelines carefully before operating the machine.
+90,Acronym,"The deadline has been extended to Friday, November 8th."
+91,News,"Could you repeat that once more, please?"
+92,Currency,What time does the last train leave for the city?
+93,Acronym,"Hey, how are you doing today?"
+94,Story,She couldn’t hold back her tears when she heard the news.
+95,Numeric,"The deadline has been extended to Friday, November 8th."
+96,Narration,HTML stands for HyperText Markup Language.
+97,Story,"Red lorry, yellow lorry, red lorry, yellow lorry."
+98,Story,What time does the last train leave for the city?
+99,Numeric,Data normalization helps improve model convergence during training.
+100,Question,Always remember to back up your files before updating the system.
+101,TongueTwister,What time does the last train leave for the city?
+102,Emotional,"Red lorry, yellow lorry, red lorry, yellow lorry."
+103,TongueTwister,The local community celebrated the festival with great enthusiasm.
+104,Conversational,Stock markets closed higher after a week of steady gains.
+105,Acronym,Please enter a six-digit security code to continue.
+106,DateTime,Scientists have discovered a potential cure for a rare genetic disease.
+107,Narration,The temperature dropped from thirty-eight to twenty-four degrees overnight.
+108,Acronym,"Unique New York, unique New York."
+109,TongueTwister,Stock markets closed higher after a week of steady gains.
+110,Currency,"The detective examined the footprints closely, looking for any clue."
+111,Emotional,Stock markets closed higher after a week of steady gains.
+112,Currency,"The sun dipped below the horizon, painting the sky in shades of crimson and gold."
+113,Acronym,She couldn’t hold back her tears when she heard the news.
+114,Instructional,The concert will begin exactly at 7:45 PM.
+115,Narration,He opened the old wooden chest and found a letter wrapped in silk.
+116,Emotional,The neural network was trained with a learning rate of 0.001 for 100 epochs.
+117,Story,Please enter a six-digit security code to continue.
+118,News,The government announced a new environmental policy today.
+119,Question,The algorithm achieved 97 percent accuracy on the validation dataset.
+120,Conversational,Why did the experiment fail despite all precautions?
