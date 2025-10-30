@@ -1,0 +1,11 @@
+requests
+websockets
+boto3
+google-cloud-texttospeech
+azure-cognitiveservices-speech
+soundfile
+TTS
+numpy
+pandas
+matplotlib
+psutil
